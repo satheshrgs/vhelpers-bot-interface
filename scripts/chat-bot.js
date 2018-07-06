@@ -8,7 +8,7 @@
 			var g="</div>";
 			var h="<div class='bot-title' id='bot-title'>V Bot <span class='version_num'>v 0.1</span></div>";
 		var i="</div>";
-		var j="<iframe src='http://infocruise.herokuapp.com/web' scrolling='no' frameborder='0' width='365' height='450' id='ifr'></iframe>";
+		var j="<iframe src='http://vhelpers.herokuapp.com/web' scrolling='no' frameborder='0' width='365' height='450' id='ifr'></iframe>";
 	var k="</div>";
 	var l="<div id='messenger-img' onclick='maximizechat()'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Facebook_Messenger_logo.svg/2000px-Facebook_Messenger_logo.svg.png' id='minbtnimg'></div>";
 	$("body").append(a);

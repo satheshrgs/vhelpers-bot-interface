@@ -2,7 +2,7 @@ $(document).ready(function() {
 var a="<div id='myModal' class='popupmodal'>";
   var b="<div class='popupmodal-content' id='myModal-content'>";
     var c="<span class='popupclose' onclick='spanclick()'>&times;</span>";
-		var d="<b><p><center><h1>V Bot</h1><hr><br>Please help us to train our out   <h2>Chat with our <br><a href='http://vhelpers.herokuapp.com/mobile' target='_blank'>V Bot</a></h2></center></p>";
+		var d="<b><p><center><h1>V Bot</h1><hr><br>Please help us to train our Bot..!!!  <h2>Chat with our <br><a href='http://vhelpers.herokuapp.com/mobile' target='_blank'>V Bot</a></h2></center></p>";
   var e="</div>"
 var f="</div>"
 $("body").append(a);
